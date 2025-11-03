@@ -1,6 +1,5 @@
-import React from "react";
-import Welcome from "./components/Welcome";
 import ProductCard from "./components/ProductCard";
+import Welcome from "./components/Welcome";
 
 
 const App = () => {
@@ -10,10 +9,12 @@ const App = () => {
   return (
     <div>
       <Welcome {...user} />
-
       <ProductCard product={product} />
     </div>
   );
 };
 
 export default App;
+
+
+
