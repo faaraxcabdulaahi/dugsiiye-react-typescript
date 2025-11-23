@@ -17,5 +17,5 @@ const UseSettingStorage = () => {
 
   return [settings, setSettings] as const;
 };
-
+         
 export default UseSettingStorage;

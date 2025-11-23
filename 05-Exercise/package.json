@@ -1,0 +1,31 @@
+{
+  "name": "2-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faaraxcabdulaahi/dugsiiye-react-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/faaraxcabdulaahi/dugsiiye-react-typescript/issues"
+  },
+  "homepage": "https://github.com/faaraxcabdulaahi/dugsiiye-react-typescript#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
