@@ -1,4 +1,3 @@
-// src/controllers/authControllers.ts
 import { Request, Response } from "express";
 import { LoginBody } from "../types/authTypes";
 
