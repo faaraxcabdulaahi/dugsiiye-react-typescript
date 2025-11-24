@@ -1,4 +1,4 @@
-import { Request } from "../routes/node_modules/@types/express";
+import { Request } from "express";
 
 export interface TheRequestWithName extends Request {
   query: { name?: string };
